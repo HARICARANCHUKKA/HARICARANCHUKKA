@@ -6,7 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1e3a8a,100:2563eb&height=230&section=header&text=Charan%20Chukka&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20Cloud%20Security%20%7C%20DevSecOps%20Engineer&descSize=18&descAlignY=56" alt="Charan Chukka"/>
 
 <!-- Status + typing -->
-<img src="https://img.shields.io/badge/●_OPEN_TO_ROLES-Cloud_Security_·_DevSecOps_·_AppSec_·_SRE-0a0e1a?style=for-the-badge&labelColor=0a0e1a&color=22c55e" alt="Open to roles"/>
+<img src="https://img.shields.io/badge/●_OPEN_TO_OPPORTUNITIES-Cloud_Security_·_DevSecOps_·_AppSec_·_SRE-0a0e1a?style=for-the-badge&labelColor=0a0e1a&color=22c55e" alt="Open to roles"/>
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 <!-- Quick stats -->
 <img src="https://img.shields.io/badge/3+_Years_Experience-1e3a8a?style=flat-square&labelColor=0a0e1a"/>
 <img src="https://img.shields.io/badge/Multi--Cloud-AWS_·_Azure_·_GCP-0e7490?style=flat-square&labelColor=0a0e1a"/>
-<img src="https://img.shields.io/badge/39_Certifications-7c2d12?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/Selected_Certifications-7c2d12?style=flat-square&labelColor=0a0e1a"/>
 <img src="https://img.shields.io/badge/GPA-3.76-6d28d9?style=flat-square&labelColor=0a0e1a"/>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="center">DevOps & Cloud Security Engineer building infrastructure that survives real production pressure</h2>
+<h2 align="center">Cybersecurity and Cloud Security Engineer building secure, reliable cloud-native systems</h2>
 
 <div align="center">
 
@@ -53,14 +53,14 @@ experience:    3+ years — System Software Engineer @ Bosch
 focus:         Cloud Security · DevSecOps · IAM · Post-Quantum Cryptography
 clouds:        AWS (since 2020) · Azure (since 2021) · GCP
 flagship:      QuantumVault — Post-Quantum Secure Cloud Storage (NIST FIPS 204)
-status:        Open to full-time U.S. roles
+status:        Open to full-time opportunities in the United States
 ```
 
 - 🎓 Graduate student in **Cybersecurity at Pace University** (Seidenberg School of CS & IS), **3.76 GPA**
 - 🛡️ I secure cloud-native systems across **AWS and Azure** — automating CI/CD, embedding **SAST/DAST**, and applying **IAM, encryption, threat modeling, and secure-by-design** principles
 - 🔐 Built **QuantumVault**, a post-quantum secure cloud storage platform using **NIST FIPS 204** signatures, **AES-256**, and **AWS KMS**
 - ☁️ **Minor in Cloud Computing** (B.Tech CS, KL University)
-- 📫 **charanhari17@gmail.com** · **(551) 414-9107**
+- 📫 **charanhari17@gmail.com**
 
 ---
 
@@ -71,7 +71,7 @@ status:        Open to full-time U.S. roles
 | **Target Roles** | Cloud Security · Security Engineering · DevSecOps · Application Security · SRE |
 | **Experience** | 3+ years — System Software Engineer, Bosch Global Software Technologies |
 | **Clouds** | AWS · Microsoft Azure · GCP · Aviatrix multi-cloud |
-| **Top Certs** | AZ-400 · AZ-204 · AWS · MuleSoft · Aviatrix ACE-MCNA (39 total) |
+| **Top Certs** | AZ-400 · AZ-204 · AWS · MuleSoft · Aviatrix ACE-MCNA (selected credentials) |
 | **Education** | MS Cybersecurity @ Pace University (GPA 3.76, Dec 2026) |
 | **Flagship** | QuantumVault — Post-Quantum Secure Cloud Storage on AWS |
 | **Location** | New York, USA — open to full-time roles |
@@ -140,7 +140,7 @@ status:        Open to full-time U.S. roles
 - Built automation scripts that streamlined processes and reduced manual workload
 - Implemented **input validation, authentication, and secure API handling** with TDD-based unit/integration tests
 
-### 🔹 AWS Cloud Trainee Intern — Amazon Web Services
+### 🔹 AWS Cloud Trainee Intern
 `Oct 2020 – Jan 2021` · India (Remote)
 
 - Provisioned and managed **EC2, S3, IAM, and RDS** while applying cloud security fundamentals
@@ -195,7 +195,7 @@ Cloud-integrated HR portal with CRUD management, role/department access, attenda
 
 ---
 
-## 🏆 Certifications  ·  *39 total*
+## 🏆 Certifications  ·  *selected credentials*
 
 **☁️ Cloud & DevOps**
 - **Microsoft AZ-400** — Designing & Implementing DevOps Solutions
@@ -242,7 +242,7 @@ I'm open to opportunities in **Cloud Security, Security Engineering, DevSecOps, 
 <a href="https://www.linkedin.com/in/charan-chukka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:charanhari17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://charan-portfolio-rho.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/📞_(551)_414--9107-1e3a8a?style=for-the-badge"/>
+
 
 <br/><br/>
 
